@@ -17,7 +17,7 @@ A knowledge-node **spec that ships structure and no content**, plus a read-only 
   the situation index asks "what situation am I in right now". The latter is the entry point,
   because experts trigger knowledge by *recognizing the situation*, not by walking a concept tree
 - The validator answers "is this structurally consistent" — never "is this knowledge correct"
-- Zero runtime dependencies beyond Python 3 + PyYAML. No database, no graph store, no RDF, no daemon
+- Zero runtime dependencies beyond Python 3.9+ and PyYAML. No database, no graph store, no RDF, no daemon
 
 ## What it is NOT
 

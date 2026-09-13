@@ -15,8 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
-      # 最低 Python 版本由 CI 实测确定，README 不凭猜填写下限。
-      # 若 3.9 挂了，说明下限更高——跑绿之后再把 README 的"Python 3"改成具体数字。
+      # matrix 守的是 README 里"Python 3.9+"这句声称：下限与上限各测一端。
+      # 下限另有本地实测依据：Python 3.8.10 可完整跑通四条命令，输出与 3.13 逐行一致。
+      # 但 3.8 已 EOL，不对外承诺支持，所以声称与 CI 都停在 3.9。
       matrix:
         python-version: ["3.9", "3.13"]
     steps:
