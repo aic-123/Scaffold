@@ -40,4 +40,4 @@ python validator/validate.py ./samples-broken
 > | `r7-self-verified.md` | `人` | R7 有两条分支：`filled_by` 是模型时报"**疑似模型代填**"，否则报通用的"不可手工写入"。用 `人` 是为了走后者（手写场景）。想看前者，改成 `模型(...)` 即可 |
 > | `r8-filler-claims-empty.md` | `未填充` | 它演示的**就是**这个取值与内容矛盾。改成 `人` 或 `模型(...)`，R8 立刻消失 |
 
-<!-- Copyright 2026 ks-demo · SPDX-License-Identifier: Apache-2.0 -->
+<!-- Copyright 2026 AIC-123 · SPDX-License-Identifier: Apache-2.0 -->

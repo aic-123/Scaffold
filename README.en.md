@@ -1,3 +1,5 @@
+[中文](README.md) | English
+
 # Knowledge Structure Tool (demo v0)
 
 > Most knowledge tools end up doing one thing: turning what you don't know
@@ -102,6 +104,8 @@ and that is far more serious than any validator error.
 ## Five-minute start
 
 ```bash
+git clone https://github.com/aic-123/ks-demo.git
+cd ks-demo
 pip install -r requirements.txt      # PyYAML, and that's the whole list
 python validator/validate.py ./samples
 ```
@@ -344,4 +348,4 @@ repo has no reason to exist.
 The two cases in `samples/` are **demo shells, not records** — their `结果` field is empty on
 purpose. Do not read them as precedent.*
 
-<!-- Copyright 2026 ks-demo · SPDX-License-Identifier: Apache-2.0 -->
+<!-- Copyright 2026 AIC-123 · SPDX-License-Identifier: Apache-2.0 -->

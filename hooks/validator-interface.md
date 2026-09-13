@@ -99,4 +99,4 @@ python validator/validate.py ./verified-out --allow-verified
 
 *接口契约 v0（2026-09）。*
 
-<!-- Copyright 2026 ks-demo · SPDX-License-Identifier: Apache-2.0 -->
+<!-- Copyright 2026 AIC-123 · SPDX-License-Identifier: Apache-2.0 -->

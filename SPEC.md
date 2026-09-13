@@ -270,4 +270,4 @@ assertion / provenance 分层。借形状是为了让人一眼认出来，不是
 
 *结构规格 v0（2026-09）。内容由人工补充。*
 
-<!-- Copyright 2026 ks-demo · SPDX-License-Identifier: Apache-2.0 -->
+<!-- Copyright 2026 AIC-123 · SPDX-License-Identifier: Apache-2.0 -->

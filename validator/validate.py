@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright 2026 ks-demo
+# Copyright 2026 AIC-123
 # SPDX-License-Identifier: Apache-2.0
 """知识结构工具 · 结构校验器（R1–R8）+ 待填清单
 

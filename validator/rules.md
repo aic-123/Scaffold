@@ -226,4 +226,4 @@ R8 的存在需要设计方明确认账（或者明确否掉）。否掉的代�
   案例不在其中。校验器只查引用是否存在、是否成环——方向它查不了，也不打算查。
   代价（示例的写法不是约定）已在 `SPEC.md` §一 与 README 写明
 
-<!-- Copyright 2026 ks-demo · SPDX-License-Identifier: Apache-2.0 -->
+<!-- Copyright 2026 AIC-123 · SPDX-License-Identifier: Apache-2.0 -->

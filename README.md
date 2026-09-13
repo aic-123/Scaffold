@@ -1,3 +1,5 @@
+[English](README.en.md) | 中文
+
 # 知识结构工具（demo v0）
 
 > 大多数知识工具最后都干成了一件事：把你不知道的东西，编成看起来知道的样子。
@@ -83,6 +85,8 @@
 ## 5 分钟上手
 
 ```bash
+git clone https://github.com/aic-123/ks-demo.git
+cd ks-demo
 pip install -r requirements.txt      # 只装一个 PyYAML
 python validator/validate.py ./samples
 ```
@@ -289,4 +293,4 @@ best-effort。**每月集中处理一次 issue**，不承诺 SLA，不承诺响�
 *设计稿 v0（2026-09）。案例由人工后续补充，AI 不得代填**真实案例**。
 `samples/` 里那两个案例是**演示用的空壳**，不是记录——它们的 `结果` 字段是空的，别当先例读。*
 
-<!-- Copyright 2026 ks-demo · SPDX-License-Identifier: Apache-2.0 -->
+<!-- Copyright 2026 AIC-123 · SPDX-License-Identifier: Apache-2.0 -->

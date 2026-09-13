@@ -1,4 +1,4 @@
-# Copyright 2026 ks-demo · SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 AIC-123 · SPDX-License-Identifier: Apache-2.0
 # node.schema.yaml · 节点字段定义（机器可读）
 #
 # 这是 SPEC.md 第一节的机器可读镜像。校验器运行时用的是 validator/validate.py
