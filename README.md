@@ -247,6 +247,7 @@ python validator/validate.py ./samples-broken
 ## 维护承诺
 
 best-effort。**每月集中处理一次 issue**，不承诺 SLA，不承诺响应时间，不承诺修复期限。
+这是一个 demo，不是一个项目。
 
 想提东西回来之前，先看 [**CONTRIBUTING.md**](CONTRIBUTING.md)。它讲清了两件容易搞反的事：
 
@@ -254,7 +255,8 @@ best-effort。**每月集中处理一次 issue**，不承诺 SLA，不承诺响�
   你的领域知识请放自己的 fork 里
 - **加规则的门槛比加字段高**——规则约束所有人，还会让人为了过校验回头改自己的文件。
   新增规则需要设计方明确认账
-这是一个 demo，不是一个项目。
+
+版本变更记在 [`CHANGELOG.md`](CHANGELOG.md)。
 
 ## 许可证
 

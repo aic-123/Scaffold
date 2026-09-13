@@ -306,6 +306,8 @@ things that are easy to get backwards:
 - **Adding a rule is held to a higher bar than adding a field.** Rules bind everyone, and they push
   existing users to go edit their own files. A new rule needs the designer's explicit sign-off
 
+Version history lives in [`CHANGELOG.md`](CHANGELOG.md).
+
 ## License
 
 **Apache-2.0**, see [`LICENSE`](LICENSE).
