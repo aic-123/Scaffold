@@ -1,0 +1,4 @@
+# Copyright 2026 ks-demo · SPDX-License-Identifier: Apache-2.0
+# 唯一的第三方依赖。校验器用它解析 YAML front matter。
+# 无数据库、无图库、无 RDF、无常驻进程。
+PyYAML>=6.0

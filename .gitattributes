@@ -1,0 +1,11 @@
+# 行尾统一：仓库内与工作区一律 LF。
+# 理由：这个项目的版本审计全靠 git diff 读得懂。行尾差异会让整文件显示为改动，
+# 把真正的改动淹掉。定在 git init 之前，成本最低。
+* text=auto eol=lf
+
+# 明确这几个后缀是文本，别被当成二进制
+*.md    text
+*.py    text
+*.yaml  text
+*.yml   text
+*.txt   text
