@@ -104,8 +104,8 @@ and that is far more serious than any validator error.
 ## Five-minute start
 
 ```bash
-git clone https://github.com/aic-123/ks-demo.git
-cd ks-demo
+git clone https://github.com/aic-123/Scaffold.git
+cd Scaffold
 pip install -r requirements.txt      # PyYAML, and that's the whole list
 python validator/validate.py ./samples
 ```

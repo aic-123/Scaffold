@@ -7,6 +7,12 @@
 
 ## [Unreleased]
 
+### 修正
+
+- 仓库改名 `ks-demo` → `Scaffold`，同步三处地址：`README.md` 与 `README.en.md` 的 clone 命令、
+  `CONTRIBUTING.md` 的 issue 入口（共 3 文件 5 处）
+- CI 增加 `workflow_dispatch`，可在 Actions 页手动触发——改仓库设置、改可见性这类操作不会触发 `push`
+
 ## [v0.0.1] - 2026-09-13
 
 首个公开版本。

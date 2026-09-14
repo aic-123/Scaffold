@@ -85,8 +85,8 @@
 ## 5 分钟上手
 
 ```bash
-git clone https://github.com/aic-123/ks-demo.git
-cd ks-demo
+git clone https://github.com/aic-123/Scaffold.git
+cd Scaffold
 pip install -r requirements.txt      # 只装一个 PyYAML
 python validator/validate.py ./samples
 ```

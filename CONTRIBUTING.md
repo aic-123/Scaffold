@@ -5,7 +5,7 @@
 一句话前提：**你不需要向上游贡献任何东西，就能完整使用它。**
 这份指南主要说明的是——**什么值得提回来，什么不该提回来。**
 
-**提交入口（issue 与 PR）**：<https://github.com/aic-123/ks-demo/issues>
+**提交入口（issue 与 PR）**：<https://github.com/aic-123/Scaffold/issues>
 
 ---
 

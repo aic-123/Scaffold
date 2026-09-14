@@ -9,6 +9,10 @@ name: validator
 on:
   push:
   pull_request:
+  # 手动触发：给 Actions 页一个 "Run workflow" 按钮。
+  # 用途：改仓库设置、改可见性这类操作不会触发 push，但你可能想立刻验证 CI 是不是绿的，
+  # 不必为此专门造一个空提交。
+  workflow_dispatch:
 
 jobs:
   validator:
