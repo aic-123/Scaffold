@@ -1,6 +1,6 @@
 [中文](README.md) | English
 
-# Knowledge Structure Tool (demo v0)
+# Scaffold (demo v0)
 
 > Most knowledge tools end up doing one thing: turning what you don't know
 > into something that looks like what you do.

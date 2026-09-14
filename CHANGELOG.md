@@ -12,6 +12,9 @@
 - 仓库改名 `ks-demo` → `Scaffold`，同步三处地址：`README.md` 与 `README.en.md` 的 clone 命令、
   `CONTRIBUTING.md` 的 issue 入口（共 3 文件 5 处）
 - CI 增加 `workflow_dispatch`，可在 Actions 页手动触发——改仓库设置、改可见性这类操作不会触发 `push`
+- 项目显示名改为 `Scaffold`：只动两份 README 的标题（`README.md:3`、`README.en.md:3`）。
+  正文里"知识结构工具"作为**泛指品类**的用法（`README.md:59`、`hooks/validator-interface.md:14`）
+  以及 `validator/validate.py` 的模块说明**保持不变**——它们说的是"它是什么"，不是"它叫什么"
 
 ## [v0.0.1] - 2026-09-13
 

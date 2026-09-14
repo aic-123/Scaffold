@@ -1,6 +1,6 @@
 [English](README.en.md) | 中文
 
-# 知识结构工具（demo v0）
+# Scaffold（demo v0）
 
 > 大多数知识工具最后都干成了一件事：把你不知道的东西，编成看起来知道的样子。
 
